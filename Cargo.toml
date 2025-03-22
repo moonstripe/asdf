@@ -2,6 +2,8 @@
 name = "asdf-oxide"
 version = "0.1.1"
 edition = "2021"
+description = "ASDF-oxide is a command-line utility that sorts pixels in images based on their brightness or color value."
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.95"
